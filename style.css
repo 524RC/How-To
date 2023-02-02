@@ -1,0 +1,41 @@
+body{
+background-color:#14213D;
+}
+div.row div {
+    text-align:center;
+    border: 1px solid white;
+    Border-color:#FCBF49;
+    padding: 50px;
+    color:#FCA311;
+
+}
+
+.spacer {
+    margin:5px;
+}
+div.idk div{
+    
+}
+.single{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.stinky{
+    width:300px;
+    height:300px;
+    
+}
+.pp{
+    width:400px;
+    height:300px;
+}
+h2{
+    color:#FCBF49;
+    background-color:;
+}
+div.poopoo div{
+    text-align:center;
+    text-size:25px;
+}
